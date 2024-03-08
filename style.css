@@ -8,6 +8,8 @@
 .logo {
     font-size: 40px;
     margin-bottom: 20px;
+    font-family: "Brush Script MT", cursive;
+    font-size: 50px;
 }
 
 .login-form input {
@@ -34,16 +36,17 @@
     background-color: #3578e5;
 }
 
-.signup-link {
+.forgot-password {
     margin-top: 20px;
     font-size: 0.9rem;
+    text-align: right;
 }
 
-.signup-link a {
+.forgot-password a {
     color: #3897f0;
     text-decoration: none;
 }
 
-.signup-link a:hover {
+.forgot-password a:hover {
     text-decoration: underline;
 }
